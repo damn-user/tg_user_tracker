@@ -1,11 +1,11 @@
 # tg_user_tracker
 a simple Python script for tracking the online status and new messages of a specific user
 
-#functional
+##functional
 1)online status tracking
 2)shows new messages from a specific user
 
-#installation
+##installation
 
 Create a file named "secret.py" in the same folder as "main.py" and populate it as follows:
 api_id = "your api_id"
