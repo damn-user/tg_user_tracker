@@ -35,7 +35,7 @@ async def online(event):
             if start is not None:
                 end = time.time()
 
-                time_online = round(end - start, 2) / 60
+                time_online = round((end - start) / 60, 1)
 
                 print(f"was online for {Fore.YELLOW}{time_online}{Style.RESET_ALL} minutes")
 
