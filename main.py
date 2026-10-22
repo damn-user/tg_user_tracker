@@ -37,7 +37,7 @@ async def online(event):
 
                 time_online = round(end - start) / 60
 
-                print(f"was online for {Fore.YELLOW}{time_online}{Style.RESET_ALL} minuts")
+                print(f"was online for {Fore.YELLOW}{time_online}{Style.RESET_ALL} minutes")
 
 async def main():
     global TARGET_ID
