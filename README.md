@@ -7,7 +7,7 @@
 
 # installation
 
-Create a file named "secret.py" in the same folder as "main.py" and populate it as follows:
+Create a file named **"secret.py"** in the same folder as **"main.py"** and populate it as follows:
 
 ```bash
 api_id = "your api_id"
@@ -15,5 +15,5 @@ api_hash = "your api_hash"
 phone = "your phone"
 ```
 
-You can obtain your "api_id" and "api_hash" by visiting my.telegram.org, registering with your phone number, and navigating to the "API development tools" section. 
-Additionally, you will need to install the libraries listed in "requirements.txt".
+> You can obtain your "api_id" and "api_hash" by visiting my.telegram.org, registering with your phone number, > and navigating to the "API development tools" section. 
+> Additionally, you will need to install the libraries listed in "requirements.txt".
