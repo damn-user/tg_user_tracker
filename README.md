@@ -7,9 +7,7 @@
 * online status tracking
 * shows new messages from a specific user
 
-# install 
-
-**install library**
+# install library
 
 ```bash
 pip install -r requirements.txt
