@@ -5,7 +5,7 @@
 * online status tracking
 * shows new messages from a specific user
 
-# installation
+# configuration
 
 Create a file named **"secret.py"** in the same folder as **"main.py"** and populate it as follows:
 
