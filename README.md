@@ -9,7 +9,7 @@
 
 Create a file named **"secret.py"** in the same folder as **"main.py"** and populate it as follows:
 
-```bash
+```python
 api_id = "your api_id"
 api_hash = "your api_hash"
 phone = "your phone"
