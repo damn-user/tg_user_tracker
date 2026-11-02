@@ -7,7 +7,7 @@
 
 # installation
 
-Create a file named ** "secret.py" ** in the same folder as ** "main.py" ** and populate it as follows:
+Create a file named "secret.py" in the same folder as "main.py" and populate it as follows:
 
 ```bash
 api_id = "your api_id"
