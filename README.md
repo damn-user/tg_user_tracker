@@ -1,9 +1,19 @@
 # 🕵️‍♂️ tg_user_tracker
+
 ***a simple Python script for tracking the online status and new messages of a specific user***
 
 # functional
+
 * online status tracking
 * shows new messages from a specific user
+
+# install 
+
+**install library**
+
+```bash
+pip install -r requirements.txt
+```
 
 # configuration
 
