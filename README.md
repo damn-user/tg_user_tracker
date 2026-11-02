@@ -15,5 +15,7 @@ api_hash = "your api_hash"
 phone = "your phone"
 ```
 
-> You can obtain your "api_id" and "api_hash" by visiting my.telegram.org, registering with your phone number, > and navigating to the "API development tools" section. 
-> Additionally, you will need to install the libraries listed in "requirements.txt".
+> **How to get API credentials:**
+> 1. Go to [my.telegram.org](https://telegram.org) and log in with your phone number.
+> 2. Navigate to **API development tools**.
+> 3. Create a new application to get your `api_id` and `api_hash`.
