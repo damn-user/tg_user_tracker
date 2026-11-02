@@ -2,8 +2,8 @@
 ### a simple Python script for tracking the online status and new messages of a specific user ###
 
 # functional
-1. online status tracking
-2. shows new messages from a specific user
+* online status tracking
+* shows new messages from a specific user
 
 # installation
 
