@@ -7,13 +7,13 @@
 * online status tracking
 * shows new messages from a specific user
 
-# install library
+## install library
 
 ```bash
 pip install -r requirements.txt
 ```
 
-# configuration
+## configuration
 
 Create a file named `secret.py` in the same folder as `main.py` and populate it as follows:
 
